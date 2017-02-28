@@ -1,4 +1,4 @@
-# Kovan Testnet Proposal
+# Kovan PoA Testnet Proposal
 
 Live Collaboration:  
 https://docs.google.com/document/d/1yxjzaTkflwpyAKIOAKH0ffNEi5Ma3VlXWZ_IPD6YxFY/
