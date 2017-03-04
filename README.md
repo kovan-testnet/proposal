@@ -1,6 +1,6 @@
 # Kovan PoA Testnet Proposal
 
-Kovan is a new testnet for Ethereum using Parity's PoA Consensys Engine with benefits over ropsten:
+Kovan is a new testnet for Ethereum using Parity's Proof of Authority consensus engine, with benefits over Ropsten:
 
 * Immune to spam attacks (as Ether supply is controlled by trusted parties)
 * Consistent 4 second block time
