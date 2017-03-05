@@ -19,6 +19,9 @@ https://kovan.etherscan.io
 Netstats:  
 http://kovan-stats.parity.io
 
+Validator Performance:  
+https://kovan.etherscan.io/stat/miner?range=1&blocktype=blocks
+
 ## Project Management
 
 Whitpaper Collaboration:  
