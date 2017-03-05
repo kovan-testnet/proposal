@@ -11,7 +11,7 @@ Connection Guide:
 https://github.com/kovan-testnet/config
 
 Faucet Service:  
-https://github.com/kovan-testnet
+https://github.com/kovan-testnet/faucet
 
 Blockchain Explorer:  
 https://kovan.etherscan.io
