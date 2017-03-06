@@ -22,6 +22,9 @@ http://kovan-stats.parity.io
 Validator Performance:  
 https://kovan.etherscan.io/stat/miner?range=1&blocktype=blocks
 
+Improvement Proposals:  
+https://github.com/kovan-testnet/KIPs/issues
+
 # Proposal
 
 *Please note this proposal is being continually updated as the project matures*
