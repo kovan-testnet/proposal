@@ -124,7 +124,7 @@ The listed PoA Validator entities will be (at least) responsible for maintaining
 * DigixGlobal: 0x007733a1FE69CF3f2CF989F81C7b4cAc1693387A
 * Attores: 0x00427feae2419c15b89d1c21af10d1b6650a4d3d
 * Maker: 0x00E6d2b931F55a3f1701c7389d592a7778897879
-* OneBit 0x4Ed9B08e6354C70fE6F8CB0411b0d3246b424d6c
+* TenX (OneBit): 0x4Ed9B08e6354C70fE6F8CB0411b0d3246b424d6c
 * Aurel: 0x00e4a10650e5a6D6001C38ff8E64F97016a1645c
 * Melonport: 0x0020ee4Be0e2027d76603cB751eE069519bA81A1
 * GridSingularity: 0x00a0a24b9f0e5ec7aa4c7389b8302fd0123194de
@@ -169,7 +169,7 @@ Attores enables data and documents to be stored and shared securely utilizing Et
 ### Maker / Dapphub
 Rune - Rune.Kek@gmail.com  
 
-Maker is a stablecoin platform on Ethereum that backs the dai stablecoin using a diversified portfolio of Ethereum based assets as collateral to guarantee price stability. Dai has minimal volatility against the SDR currency basket maintained by the IMF, and the holders of a special asset called MKR act as a decentralized governance body that utilizes wisdom of the crowd to manage the monetary policy and risk of the system. Dapphub is the leading development company in the Maker community, and have created several cutting edge software tools to aid in the development of the Maker platform, including Dapple and Dappsys. 
+Maker is a stablecoin platform on Ethereum that backs the dai stablecoin using a diversified portfolio of Ethereum based assets as collateral to guarantee price stability. Dai has minimal volatility against the SDR currency basket maintained by the IMF, and the holders of a special asset called MKR act as a decentralized governance body that utilizes wisdom of the crowd to manage the mbtary policy and risk of the system. Dapphub is the leading development company in the Maker community, and have created several cutting edge software tools to aid in the development of the Maker platform, including Dapple and Dappsys. 
 
 
 ### TenX
