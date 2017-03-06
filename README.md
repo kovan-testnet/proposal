@@ -1,6 +1,6 @@
 # Kovan - Stable Ethereum Public Testnet
 
-Kovan is a new testnet for Ethereum using Parity's Proof of Authority consensus engine, with benefits over Ropsten:
+Kovan is a new testnet for Ethereum using Parity's Proof of Authority consensus engine, with benefits over [Ropsten](https://blog.ethereum.org/2016/11/20/from-morden-to-ropsten/):
 
 * Immune to spam attacks (as Ether supply is controlled by trusted parties)
 * Consistent 4 second block time
@@ -46,6 +46,13 @@ Because mining does not occur on our proposed public test net, malicious actors 
 There is no difference in the way that contracts are executed compared to PoW chains, so developers can test their contracts and user interfaces before deploying to the mainnet in a more reliable and convenient environment.
 
 More information about PoA can be found at: https://github.com/ethcore/parity/wiki/Proof-of-Authority-Chains
+
+## Advantages over the existing ropsten public testnet
+
+Aside from solving the critical stability issue of the ongoing Ropsten “spam attack”, there are additional benefits for providing a public consortium PoA network.
+
+* Shorter block times, allowing for more rapid deployment, testing and iteration
+* Reduced overall maintenance costs (no cpu-intensive mining is required)
 
 ## Specification
 
@@ -129,13 +136,6 @@ The listed PoA Validator entities will be (at least) responsible for maintaining
 * Melonport: 0x0020ee4Be0e2027d76603cB751eE069519bA81A1
 * GridSingularity: 0x00a0a24b9f0e5ec7aa4c7389b8302fd0123194de
 * Nivaura: [will join in first HF]
-
-## Advantages over the existing ropsten public testnet
-
-Aside from solving the critical stability issue of the ongoing Ropsten “spam attack”, there are additional benefits for providing a public consortium PoA network.
-
-* Shorter block times, allowing for more rapid deployment, testing and iteration
-* Reduced overall maintenance costs (no cpu-intensive mining is required)
 
 ## Consortium Company Profiles:
 
