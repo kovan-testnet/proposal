@@ -59,7 +59,7 @@ Formal process to be confirmed. Currently using gitter for decision making. The 
 ### Blockchain Configuration
 
 * 4 second block time
-* Parity AuthorityRound PoA consensus mechanism (https://github.com/ethcore/parity/wiki/Consensus-Engines#authority-round)
+* Parity [AuthorityRound PoA consensus mechanism](https://github.com/ethcore/parity/wiki/Consensus-Engines#authority-round)
 * Use `--force-sealing`
 * Homestead rules with possible Metropolis & beyond additions;
 
