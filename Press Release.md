@@ -22,7 +22,8 @@ Ten organisations have collaborated in order to create and maintain this new sta
 * MelonPort - Digital Asset Management Platform
 * Nivaura - Financial Instrument Issuance and Administration Technology  
 * GridSingularity - Decentralized Energy Data Application Platform
-* Etherscan will be providing the Kovan blockchain explorer to facilitate transaction tracking and inspection at https://kovan.etherscan.io/ and a Netstats console is available at https://kovan-stats.parity.io. Additional services including public RPC endpoints will also become available in the near future, which allow developers and testers to interact with Kovan without running a local Ethereum node.
+
+Etherscan will be providing the Kovan blockchain explorer to facilitate transaction tracking and inspection at https://kovan.etherscan.io/ and a Netstats console is available at https://kovan-stats.parity.io. Additional services including public RPC endpoints will also become available in the near future, which allow developers and testers to interact with Kovan without running a local Ethereum node.
 
 Thanks to the Kovan testnet initiative, Ethereum developers now have access to a stable public environment for testing Smart Contracts and Decentralized Applications.
 
