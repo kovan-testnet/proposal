@@ -25,6 +25,9 @@ https://kovan.etherscan.io/stat/miner?range=1&blocktype=blocks
 Improvement Proposals:  
 https://github.com/kovan-testnet/KIPs/issues
 
+Gitter Chat:  
+https://gitter.im/kovan-testnet
+
 # Proposal
 
 *Please note this proposal is being continually updated as the project matures*
