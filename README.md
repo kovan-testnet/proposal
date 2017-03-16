@@ -67,7 +67,7 @@ To ensure a sufficient degree of trust and redundancy, a minimum number of Conso
 
 ### Governance
 
-Formal process to be confirmed. Currently using gitter for decision making. The Parity codebase (and thus Kovan) is ultiamtely controlled by Parity Technologies.
+Formal process to be confirmed. Currently using gitter for decision making. The Parity codebase (and thus Kovan) is ultimately controlled by Parity Technologies.
 
 ### Blockchain Configuration
 
@@ -150,7 +150,7 @@ Jutta Steiner (Co-founder, COO) jutta@parity.io
 Peter Czaban (Lead, Parity Enterprise Suite) peter@parity.io   
 Björn Wagner (Head of Business Development) bjorn@parity.io   
 
-Parity Technologies (FKA Ethcore) is the most advanced blockchain core technology provider. Our flagship product, Parity Ethereum, powers much of the Ethereum network, protecting more than $1b of Turing complete value and acutely demonstrated itself the most robust, performant Ethereum client software through single-handedly defending the network when attacked. Through its set of products, Parity provides the necessary technology to enterprises and individuals alike in the pursuit of trust-freedom.
+Parity Technologies (FKA Ethcore) is the most advanced blockchain core technology provider. Our flagship product, Parity Ethereum, powers much of the Ethereum network, protecting more than $3bn of Turing complete value and acutely demonstrated itself the most robust, performant Ethereum client software through single-handedly defending the network when attacked. Through its set of products, Parity provides the necessary technology to enterprises and individuals alike in the pursuit of trust-freedom.
 
 ### Etherscan
 Matthew Tan (Founder, CEO) - matt@etherscan.io
