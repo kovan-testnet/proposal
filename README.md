@@ -48,7 +48,7 @@ Because mining does not occur on our proposed public test net, malicious actors 
 
 There is no difference in the way that contracts are executed compared to PoW chains, so developers can test their contracts and user interfaces before deploying to the mainnet in a more reliable and convenient environment.
 
-More information about PoA can be found at: https://github.com/ethcore/parity/wiki/Proof-of-Authority-Chains
+More information about PoA can be found at: https://github.com/paritytech/parity/wiki/Proof-of-Authority-Chains
 
 ## Advantages over the existing ropsten public testnet
 
@@ -72,7 +72,7 @@ Formal process to be confirmed. Currently using gitter for decision making. The 
 ### Blockchain Configuration
 
 * 4 second block time
-* Parity [AuthorityRound PoA consensus mechanism](https://github.com/ethcore/parity/wiki/Consensus-Engines#authority-round)
+* Parity [AuthorityRound PoA consensus mechanism](https://github.com/paritytech/parity/wiki/Pluggable-Consensus#aura)
 * Use `--force-sealing`
 * Homestead rules with possible Metropolis & beyond additions;
 
@@ -188,7 +188,7 @@ Aurel Iancu is a consultant for an European Blockchain Consultancy firm based in
 
 ### Melonport
 Reto Trinkler (Founder / Chairman) - rt@melonport.com  
-Mona El Isa (CEO) - me@melonport.com	  
+Mona El Isa (CEO) - me@melonport.com    
 George Hallam (Head of Business Development) - george@melonport.com  
 
 Melonport is the private company building the open-source Melon Protocol. The Melon protocol is a blockchain protocol for digital asset management built on the Ethereum platform. It enables participants to set up, manage and invest in digital asset management strategies in an open, competitive and decentralised manner.
